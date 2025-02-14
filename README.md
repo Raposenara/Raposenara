@@ -1,8 +1,46 @@
-###Olá, me chamo **Hector**, mas pode me chamar de **Raposo**, meu nickname normalmente será Raposenara,"porque tantas raposas?".
-Vocês devem se perguntar,bem, a primera vez que eu vi foi uma, eu me encantei como uma criança descobrindo doces pela primera vez.
-Faz um tempo que eu descobri que eu AMO programar, eu havia desistido um tempo atrás, mas agora com esperanças, eu voltei.
-meu aniversario é 22 de outubro de 2008, eu tenho paciencia e sou sereno na maioria do tempo.
+# 🦊 Olá, tudo bem? Me chamo Raposo!
 
-Eu atualmente estou tentando treinar meus código de programação, eu aceito ajudas se alguém conseguir ajudar
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/info-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/steam-000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/twitch-000?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+</p>
 
-I can speak English too, but I'm not sure if it's really good, I still lack some words in my vocabulary.
+---
+
+```bash
+> neofetch
+```
+```
+Raposo@GitHub
+
+OS: Windows 11 x64
+Shell: Windows Terminal
+Pronouns: Ele/Dele
+Location: Brasil, SP
+Learning: Python, MongoDB, PySimpleGUI
+
+💻 "Código é poesia, ciência é arte."
+```
+
+---
+
+### 📊 **Status do GitHub**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raposo&show_icons=true&theme=tokyonight"/>
+</p>
+
+### 🦊 **Meu espírito animal**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raposo/Raposo/main/fox.gif" width="250"/>
+</p>
+
+### ✨ **Sobre mim**
+- 🔭 Atualmente explorando **desenvolvimento de jogos e segurança**.
+- 📚 Interessado em **biologia, física e inteligência artificial**.
+- 🎮 Gosto de experimentar jogos e analisar sua mecânica.
+
+---
+
+_📌 Perfil inspirado por DarkMod3_
+
