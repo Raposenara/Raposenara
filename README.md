@@ -1,4 +1,4 @@
-# Olá, tudo bem? Me chamo Raposo!
+# Olá, tudo bem? Se preferir me chame de Rapozo!
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/info-000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -36,6 +36,7 @@ Learning: Python, MongoDB, PySimpleGUI
 - 🔭 Atualmente explorando **desenvolvimento de jogos e segurança**.
 - 📚 Interessado em **biologia, física e inteligência artificial**.
 - 🎮 Gosto de experimentar jogos e analisar sua mecânica.
+- 🐱‍💻 Adoro desafios, principalmente aonde não conheço
 
 ---
 
