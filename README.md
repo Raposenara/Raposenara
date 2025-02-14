@@ -30,7 +30,6 @@ Learning: Python, MongoDB, PySimpleGUI
   <img src="https://github-readme-stats.vercel.app/api?username=Raposo&show_icons=true&theme=tokyonight"/>
 </p>
 
-📩 Contato
 ✉️ E-mail: wakfufalso@gmail.com
 
 ### ✨ **Sobre mim**
