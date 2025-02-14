@@ -1,4 +1,4 @@
-# 🦊 Olá, tudo bem? Me chamo Raposo!
+# Olá, tudo bem? Me chamo Raposo!
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/info-000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -30,10 +30,8 @@ Learning: Python, MongoDB, PySimpleGUI
   <img src="https://github-readme-stats.vercel.app/api?username=Raposo&show_icons=true&theme=tokyonight"/>
 </p>
 
-### 🦊 **Meu espírito animal**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raposo/Raposo/main/fox.gif" width="250"/>
-</p>
+📩 Contato
+✉️ E-mail: wakfufalso@gmail.com
 
 ### ✨ **Sobre mim**
 - 🔭 Atualmente explorando **desenvolvimento de jogos e segurança**.
