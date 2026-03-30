@@ -31,7 +31,6 @@ Learning: C#, XML and fluent
   <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-✉️ E-mail: wakfufalso@gmail.com
 
 ### ✨ **Sobre mim**
 - 🔭 Atualmente explorando **desenvolvimento de jogos e segurança**.
@@ -42,4 +41,4 @@ Learning: C#, XML and fluent
 ---
 
 _📌 Perfil inspirado por DarkMod3_
-
+_✉️ E-mail: wakfufalso@gmail.com ( Personal )
