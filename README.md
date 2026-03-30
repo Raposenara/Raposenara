@@ -38,7 +38,10 @@ Learning: C#, XML and fluent
 - 🎮 Gosto de experimentar jogos e analisar sua mecânica.
 - 🐱‍💻 Adoro desafios, principalmente aonde não conheço
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>(wakfufalso@gmail.com)
+</p> 
+
 ---
 
 _📌 Perfil inspirado por DarkMod3_
-_✉️ E-mail: wakfufalso@gmail.com ( Personal )
